@@ -16,3 +16,6 @@ do
     echo $i
     i=$((i+2))
 done
+
+# also same
+for i in $(seq 1 2 99); do echo $i ; done
