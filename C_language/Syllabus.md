@@ -2,18 +2,18 @@
 - [ ] Background Part 1 (IO Devices, CPU and Memory)
 - [ ] Background Part 2 (Computer Organization & Operating System)
 - [ ] Why Do We Need Programming Language
-- [ ] C Introduction
-- [ ] C standards andImplementation
-- [ ] Basic CTerminology
-- [ ] How Does C Program Runs
-- [ ] Writing first Program in C
-- [ ] Comment in C
+- [x] C Introduction
+- [ ] C standards and Implementation
+- [x] Basic C Terminology
+- [x] How Does C Program Runs
+- [x] Writing first Program in C
+- [x] Comment in C
 
 # Variables and DataTypes
-- [ ] Variables in C
-- [ ] Variables Naming Rules
-- [ ] Data types inC
-- [ ] Ranges of Data Types in C
+- [x] Variables in C
+- [x] Variables Naming Rules
+- [x] Data types in C
+- [x] Ranges of Data Types in C
 - [ ] Operator sizeof() in C
 - [ ] Global Variable andScope
 - [ ] Const inC
@@ -22,21 +22,21 @@
 - [ ] Type Conversion inC
 - [ ] Swap twoNumbers
 # Input and Output in C
-- [ ] Input and Output in C
-- [ ] printf() in C
-- [ ] scanf() in C
+- [x] Input and Output in C
+- [x] printf() in C
+- [x] scanf() in C
 - [ ] fgets inC
-- [ ] Format Specifiers forIntegers
-- [ ] Format Specifiers for floating point number
-- [ ] Other formatSpecifiers
-- [ ] Width and precision in printf()
+- [x] Format Specifiers forIntegers
+- [x] Format Specifiers for floating point number
+- [x] Other format Specifiers
+- [x] Width and precision in printf()
 - [ ] A Buffering example in C
-- [ ] Escape Sequence in C
+- [x] Escape Sequence in C
 # Operators
-- [ ] Arithmetic Operators
+- [x] Arithmetic Operators
 - [ ] Unary Arithmetic Operators
 - [ ] Comparison Operators
-- [ ] Assignment Operators
+- [x] Assignment Operators
 - [ ] Bitwise Operator inC (AND, OR and XOR)
 - [ ] Bitwise Operator inC (Left Shift, Right Shift and NOT)
 - [ ] Signed Number Representation and Bitwise Not
