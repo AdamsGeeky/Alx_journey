@@ -51,3 +51,56 @@ code file.
    |    %E      |  floating point            |
 
 ***
+# constant in C
+ there are two types of constant in c programming language
+ 1. primary constant
+  - integer
+  - real
+  - character 
+ 2. Secondary constant
+  - Array
+  - pointer
+  - structure
+  - union
+  - Enum
+# Data types in C
+1. int = integer ... -1 0 1 ...
+2. float = Real a decimal number 2.4 ... 7.1
+3. char = character 'a' 'A' ... 'z' 'Z'
+
+***
+# variable
+  variable declaration 
+  *dataType variableName = initialValue*
+  ## naming conviction
+  1. must indicate what value it store
+  2. ideally should be assigned some value at the time of declaration
+  3. must not contain any special character
+  4. must start with letter or underscore
+  5. must not be a keyword   
+   ## Examples
+   |  **Valid**   |  **Invalid**  |
+   |:------------:|:-------------:|
+   |int roll_num  | int roll-num  |
+   |float piValue | float 3.142   |
+   | char o       | char 0        |
+   |int _superKul | int if        |
+
+# Operators in C
+- Arithmetic operators
+  1. + addition
+  2. - subtraction
+  3. * multiplication
+  4. / division
+  5. % modular division
+- Increment and Decrement operators
+- Assignment operators
+  1. = 
+  2. += 
+  3. -=
+  4. *=
+- Relational operators
+- Logical Operators
+- Conditional operators
+- Bitwise operators
+- special operators
