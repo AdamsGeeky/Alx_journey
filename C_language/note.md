@@ -1,11 +1,23 @@
 # What is C?
     C is a programming language used to write a program. Programs are the set of
     instructions given by a programmer to the computer in high level language. C uses a compiler to translate the high level program into machine code before executing any instructions. 
-1. Compiler is itself a computer program.
+  ## middle level language
+    becouse of it ability to:
+  1. Direct Memory Access through Pointers
+  2. Bit Manipulation Using Bitwise Operator
+  3. Writing Assembly Code within C code
+# language Translator in c
+  the translation in c follows a four step before it is execute by machine
+1. preprocessor
+2. compiler
+3. Assembler
+4. linker/loader
+
+5. Compiler is itself a computer program.
    - compilation with gcc
       *gcc sourcefileName  -o ../compiler_output/outputFileName*
-2. Interpreter  
-3. Assembler.
+6. Interpreter  
+7. Assembler.
 
 ***
 
@@ -32,7 +44,7 @@ code file.
    you need to use format specifiers whether your are printing out to 
    the screen with printf() or accepting input with scanf() 
    ## some of the format specifiers in C
-   | specifiers |         excepted data      |
+   | **specifiers**|     **excepted data**  |
    |:----------:|:--------------------------:|
    |    %c      |  single character          |
    |    %s      |  a string of character     |
