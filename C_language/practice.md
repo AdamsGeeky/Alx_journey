@@ -1,5 +1,5 @@
 # C Basics Variables and DataTypes Input and Output Operators in C
-- ## [ ] Area and perimeter plane shapes
+- ## [X] Area and perimeter plane shapes
      1. Triangle
      2. Rectangle
      3. Square
@@ -8,7 +8,7 @@
      6. Sector of a Circle
      7. Parallelogram
      8. Rhombus
-- ## [ ]  Area and Volume of Solid Shapes
+- ## [X]  Area and Volume of Solid Shapes
      1.  Cylinder
      2.  Cube
      3.  Cuboid
@@ -16,7 +16,7 @@
      5.  Sphere
      6.  Prism
      7.  pyramid
-     8.  Frustrumof a cone
+     8.  Frustrum of a cone
 - ## [ ] Type Conversion in C
 - ## [ ] Swap two Numbers
 - ## [ ] Day before N days
