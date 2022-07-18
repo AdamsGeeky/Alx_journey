@@ -23,5 +23,8 @@ do
 echo "reapet $i times"
 done
 echo
-
-
+# even number 1 100
+for i in {1..99..2}
+do
+   echo $i
+done
