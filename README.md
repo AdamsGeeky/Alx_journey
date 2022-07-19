@@ -1,5 +1,6 @@
 # Software_Engineering journey
-#                            HOW IS AN ENGINEER         
+#                            HOW IS AN ENGINEER     
+- ## [linux]()
 - ## [bash Script](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/BashScript/Syllabus.md)
 - ## programming
   - ### [C Programming language](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/C_language/Syllabus.md)
