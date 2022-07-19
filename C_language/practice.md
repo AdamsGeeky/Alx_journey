@@ -1,5 +1,5 @@
 # C Basics Variables and DataTypes Input and Output Operators in C
-- ## [ X ] Area and perimeter plane shapes
+- ## [x] Area and perimeter plane shapes
      1. [Triangle](source_code/planeShapes/Triangle.c)
      2. [Rectangle](source_code/planeShapes/Rectangle.c)
      3. [Square](source_code/planeShapes/square.c)
@@ -8,7 +8,7 @@
      6. [Sector of a Circle](source_code/planeShapes/sector.c)
      7. [Parallelogram](source_code/planeShapes/parallelogram.c)
      8. [Rhombus](source_code/planeShapes/rhombus.c)
-- ## [ X ]  Area and Volume of Solid Shapes
+- ## [x] Area and Volume of Solid Shapes
      1.  [Cylinder](source_code/solidShapes/cylinder.c)
      2.  [Cube](source_code/solidShapes/cube.c)
      3.  [Cuboid](source_code/solidShapes/cuboid.c)
@@ -18,7 +18,7 @@
      7.  [pyramid](source_code/solidShapes/pyramid.c)
      8.  [Frustrum of a cone](source_code/solidShapes/frustrumOfCone.c)
 - ## [ ] Type Conversion in C
-- ## [ x ] [Swap two Numbers](swap.c)
+- ## [x] [Swap two Numbers](swap.c)
 - ## [ ] Day before N days
 - ## [ ] Sum of N Natural Numbers
 - ## [ ] Last Digit of a Number
