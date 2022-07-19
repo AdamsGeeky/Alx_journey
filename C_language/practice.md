@@ -1,24 +1,24 @@
 # C Basics Variables and DataTypes Input and Output Operators in C
 - ## [X] Area and perimeter plane shapes
-     1. Triangle
-     2. Rectangle
-     3. Square
-     4. Trapezium
-     5. Circle
-     6. Sector of a Circle
-     7. Parallelogram
-     8. Rhombus
+     1. [Triangle](source_code/planeShapes/Triangle.c)
+     2. [Rectangle](source_code/planeShapes/Rectangle.c)
+     3. [Square](source_code/planeShapes/square.c)
+     4. [Trapezium](source_code/planeShapes/trapezium.c)
+     5. [Circle](source_code/planeShapes/circle.c)
+     6. [Sector of a Circle](source_code/planeShapes/sector.c)
+     7. [Parallelogram](source_code/planeShapes/parallelogram.c)
+     8. [Rhombus](source_code/planeShapes/rhombus.c)
 - ## [X]  Area and Volume of Solid Shapes
-     1.  Cylinder
-     2.  Cube
-     3.  Cuboid
-     4.  cone
-     5.  Sphere
-     6.  Prism
-     7.  pyramid
-     8.  Frustrum of a cone
+     1.  [Cylinder](source_code/solidShapes/cylinder.c)
+     2.  [Cube](source_code/solidShapes/cube.c)
+     3.  [Cuboid](source_code/solidShapes/cuboid.c)
+     4.  [cone](source_code/solidShapes/cone.c)
+     5.  [Sphere](source_code/solidShapes/sphere.c)
+     6.  [Prism](source_code/solidShapes/prism.c)
+     7.  [pyramid](source_code/solidShapes/pyramid.c)
+     8.  [Frustrum of a cone](source_code/solidShapes/frustrumOfCone.c)
 - ## [ ] Type Conversion in C
-- ## [ ] Swap two Numbers
+- ## [x] [Swap two Numbers](swap.c)
 - ## [ ] Day before N days
 - ## [ ] Sum of N Natural Numbers
 - ## [ ] Last Digit of a Number
