@@ -63,6 +63,9 @@ code file.
    |    %E      |  floating point            |
 
 ***
+# Escape Sequences
+  are used to format the out put or space between the charecter
+
 # constant in C
  there are two types of constant in c programming language
  1. primary constant
