@@ -2,13 +2,13 @@
 #                            HOW IS AN ENGINEER  
 ## INNOVATOR INVENTOR PROLEM SOLVER 
 <details> 
-  <summary> # roles of Software engineers </summary>
+  # <summary> roles of Software engineers </summary>
    - Designing and maintaining software systems
-  <summary> - Evaluating and testing new software programs</summary>
-  <summary> - Optimizing software for speed and scalability</summary>
-  <summary> - Writing and testing code </summary>
-  <summary> - Consulting with clients, engineers, security specialists, and other stakeholders </summary>
-  <summary> - Presenting new features to stakeholders and internal customers </summary>  
+   - Evaluating and testing new software programs
+   - Optimizing software for speed and scalability
+   - Writing and testing code
+   - Consulting with clients, engineers, security specialists, and other stakeholders 
+   - Presenting new features to stakeholders and internal customers   
 </details>
 
 
