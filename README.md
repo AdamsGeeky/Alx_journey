@@ -36,6 +36,7 @@
 
 <details> 
 <summary> Spring Two </summary> 
+
 - [ ] Python - first statements
 - [ ] Python - import & modules
 - [ ] Python - data structures
@@ -62,6 +63,7 @@
 
 <details> 
 <summary> Spring Three </summary> 
+
 - [ ] Python - Object-relational mapping
 - [ ] Python - Web framework
 - [ ] Python - RESTful API
@@ -87,7 +89,8 @@
 # specialization 
 
 <details> 
-<summary> FrontEnd </summary> 
+<summary> FrontEnd </summary>
+
 - [ ] ES6 introduction / promise
 - [ ] ES6 classes / data manipulation
 - [ ] TypeScript
@@ -105,7 +108,8 @@
 </details>
 
 <details> 
-<summary> BackEnd </summary>  
+<summary> BackEnd </summary> 
+
 - [ ] ES6 introduction / promise
 - [ ] ES6 classes / data manipulation
 - [ ] TypeScript
