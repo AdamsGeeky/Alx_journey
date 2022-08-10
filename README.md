@@ -71,7 +71,7 @@
 - [ ] Javascript - first statements
 - [ ] Javascript - objects
 - [ ] Javascript - scopes and closures
-- Javascript - web scraping
+- [ ] Javascript - web scraping
 - [ ] Search algorithms
 - [ ] SSH
 - [ ] SSL certificate
