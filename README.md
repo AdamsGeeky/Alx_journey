@@ -4,7 +4,7 @@
 <details> 
   <summary> roles of Software engineers </summary>
   <ul> 
-    <li> - [ ] Designing and maintaining software systems </li>
+    <li> - Designing and maintaining software systems </li>
     <li> - Evaluating and testing new software programs </li>
     <li> - Optimizing software for speed and scalability </li>
     <li> - Writing and testing code </li>
