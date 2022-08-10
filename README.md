@@ -2,19 +2,16 @@
 #                            HOW IS AN ENGINEER  
 ## INNOVATOR INVENTOR PROLEM SOLVER 
 <details> 
-  # <summary> roles of Software engineers </summary>
-   - Designing and maintaining software systems
-   - Evaluating and testing new software programs
-   - Optimizing software for speed and scalability
-   - Writing and testing code
-   - Consulting with clients, engineers, security specialists, and other stakeholders 
-   - Presenting new features to stakeholders and internal customers   
+  <summary> roles of Software engineers </summary>
+  <ul> 
+    <li> - Designing and maintaining software systems </li>
+    <li> - Evaluating and testing new software programs </li>
+    <li> - Optimizing software for speed and scalability </li>
+    <li> - Writing and testing code </li>
+    <li> - Consulting with clients, engineers, security specialists, and other stakeholders  </li>
+    <li> - Presenting new features to stakeholders and internal customers  </li>
+  </ul>    
 </details>
-
-
-
-
-
 
 - ## [linux]()
 - ## [bash Script](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/BashScript/Syllabus.md)
