@@ -20,12 +20,11 @@
   - ### [C++ Programming language](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/C%2B%2B_language/Syllabus.md)
 - ## [Data Structure and Algorithms](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/DSA/Syllabus.md)
 
-## Resoures 
+## Resoures by:
 [Firdaus H. Salim *Software engineer at ALX. Reader. Writer.*](https://github.com/betascribbles)<br/>
  - [How I Tackle My Software Engineering Projects at ALX](https://medium.com/alx-africa/how-i-tackle-my-software-engineering-projects-at-alx-610f3f5a6448)
-  <br/>
  - [Project-based learning tasks alx-Holberton School](https://github.com/betascribbles/alx-low_level_programming)
- <br/>
+
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/AdamsGeeky/Alx_holberlton_S_Eng_journey/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=AdamsGeeky/Alx_holberlton_S_Eng_journey"/>
