@@ -34,7 +34,7 @@ Git & command line editors
 </details>
 
 <details> 
-<summary> spring two </summary> 
+<summary> Spring Two </summary> 
 - Python - first statements
 - Python - import & modules
 - Python - data structures
@@ -57,9 +57,9 @@ Git & command line editors
 - Unix processes and signals
 - Regex
 - Network introduction
-</detalis>
+</details>
 
-<detailis> 
+<details> 
 <summary> Spring Three </summary> 
 - Python - Object-relational mapping
 - Python - Web framework
@@ -81,7 +81,7 @@ Git & command line editors
 - Postmortem
 - Webstack debugging
 - Portfolio project
-</detailis>
+</details>
 
 # specialization 
 
@@ -101,9 +101,9 @@ Git & command line editors
 - React Redux - action creator/normalizr
 - React Redux -reducer/selector
 - React Redux -connector/provider
-</detailis>
+</details>
 
-<detailis> 
+<details> 
 <summary> BackEnd </summary>  
 - ES6 introduction / promise
 - ES6 classes / data manipulation
@@ -123,7 +123,7 @@ Git & command line editors
 - Queuing system
 - GraphQL API
 - Async file API
-</detailis>
+</details>
 
 ## Resoures by:
 [Firdaus H. Salim *Software engineer at ALX. Reader. Writer.*](https://github.com/betascribbles)<br/>
