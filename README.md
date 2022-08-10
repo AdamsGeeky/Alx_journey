@@ -19,3 +19,8 @@
   - ### [C Programming language](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/C_language/Syllabus.md)
   - ### [C++ Programming language](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/C%2B%2B_language/Syllabus.md)
 - ## [Data Structure and Algorithms](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/DSA/Syllabus.md)
+
+## Thanks to all the contributors ❤️
+<a href = "https://github.com/AdamsGeeky/Alx_holberlton_S_Eng_journey/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=AdamsGeeky/Alx_holberlton_S_Eng_journey"/>
+</a>
