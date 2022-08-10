@@ -22,6 +22,7 @@
 
 ## Resoures 
 [How I Tackle My Software Engineering Projects at ALX](https://medium.com/alx-africa/how-i-tackle-my-software-engineering-projects-at-alx-610f3f5a6448)
+<br/><br/>
 [Project-based learning tasks alx-Holberton School](https://github.com/betascribbles/alx-low_level_programming)
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/AdamsGeeky/Alx_holberlton_S_Eng_journey/graphs/contributors">
