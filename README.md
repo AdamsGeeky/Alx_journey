@@ -1,13 +1,20 @@
 # Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.
 #                            HOW IS AN ENGINEER  
 ## INNOVATOR INVENTOR PROLEM SOLVER 
-# roles of Software engineers your day-to-day tasks might include:
-- Designing and maintaining software systems
-- Evaluating and testing new software programs
-- Optimizing software for speed and scalability
-- Writing and testing code
-- Consulting with clients, engineers, security specialists, and other stakeholders
-- Presenting new features to stakeholders and internal customers
+# roles of Software engineers
+<details>
+  <summary> - Designing and maintaining software systems</summary>
+  <summary> - Evaluating and testing new software programs</summary>
+  <summary> - Optimizing software for speed and scalability</summary>
+  <summary> - Writing and testing code </summary>
+  <summary> - Consulting with clients, engineers, security specialists, and other stakeholders </summary>
+  <summary> - Presenting new features to stakeholders and internal customers </summary>  
+</details>
+
+
+
+
+
 
 - ## [linux]()
 - ## [bash Script](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/BashScript/Syllabus.md)
