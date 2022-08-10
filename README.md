@@ -17,11 +17,12 @@
 
 <details> 
 <summary> spring one </summary> 
-Git & command line editors
-- Introduction to Bash
-- C - first statements
-- C - pointers
-- C - recursion
+
+- [ ] Git & command line editors
+- [ ] Introduction to Bash
+- [ ] C - first statements
+- [ ] C - pointers
+- [ ] C - recursion
 - C - static library
 - C - memory allocation
 - C - preprocessor
