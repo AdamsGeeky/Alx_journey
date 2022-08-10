@@ -13,12 +13,117 @@
   </ul>    
 </details>
 
-- ## [linux]()
-- ## [bash Script](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/BashScript/Syllabus.md)
-- ## programming
-  - ### [C Programming language](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/C_language/Syllabus.md)
-  - ### [C++ Programming language](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/C%2B%2B_language/Syllabus.md)
-- ## [Data Structure and Algorithms](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/blob/main/DSA/Syllabus.md)
+# curriculum alx holberton school Learn by doing, learn from each other.
+
+<details> 
+<summary> spring one </summary> 
+Git & command line editors
+- Introduction to Bash
+- C - first statements
+- C - pointers
+- C - recursion
+- C - static library
+- C - memory allocation
+- C - preprocessor
+- C - variadic functions
+- C - bit manipulation
+- C - file I/O
+- Singly linked lists
+- Create your own printf
+- Create your own Shell
+</details>
+
+<details> 
+<summary> spring two </summary> 
+- Python - first statements
+- Python - import & modules
+- Python - data structures
+- Python - exceptions
+- Python - classes
+- Python - inheritance
+- Python - file I/O
+- Python - JSON serialization / deserialization
+- HTML/CSS introduction
+- SQL - basic queries
+- SQL - join queries
+- C - dynamic libraries
+- C - makefiles
+- Doubly linked lists
+- Stack and Queues
+- Hash tables
+- Sorting algorithms
+- Binary trees
+- Bash - scripting
+- Unix processes and signals
+- Regex
+- Network introduction
+</detalis>
+
+<detailis> 
+<summary> Spring Three </summary> 
+- Python - Object-relational mapping
+- Python - Web framework
+- Python - RESTful API
+- Python - web scraping
+- Javascript - first statements
+- Javascript - objects
+- Javascript - scopes and closures
+- Javascript - web scraping
+- Search algorithms
+- SSH
+- SSL certificate
+- Web server
+- Load balancer
+- Firewall
+- MySQL primary-replica
+- Server monitoring
+- Code deployment
+- Postmortem
+- Webstack debugging
+- Portfolio project
+</detailis>
+
+# specialization 
+
+<details> 
+<summary> FrontEnd </summary> 
+- ES6 introduction / promise
+- ES6 classes / data manipulation
+- TypeScript
+- HTML / CSS advanced
+- Developer tools
+- Responsive design
+- Webpack
+- React introduction / props
+- React component
+- React inline-styling
+- React state / immutable
+- React Redux - action creator/normalizr
+- React Redux -reducer/selector
+- React Redux -connector/provider
+</detailis>
+
+<detailis> 
+<summary> BackEnd </summary>  
+- ES6 introduction / promise
+- ES6 classes / data manipulation
+- TypeScript
+- Python
+- async
+- MySQL advanced
+- NoSQL introduction
+- Redis introduction
+- API Pagination
+- Caching algorithms
+- Unit & integration tests
+- i18n
+- Personal data
+- User authentications
+- Node JS introduction
+- Queuing system
+- GraphQL API
+- Async file API
+</detailis>
 
 ## Resoures by:
 [Firdaus H. Salim *Software engineer at ALX. Reader. Writer.*](https://github.com/betascribbles)<br/>
