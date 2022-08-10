@@ -2,10 +2,12 @@
    Author :- ADAMU MUHAMMED MUHAMMAD aka AdamsGeeky
    Date :- jul 12, 2022 
 */
-
 #include<stdio.h>
-void main()
+#include<math.h>
+int main()
 {
 printf("Hello World !"); 
+float root = sqrt(25);
+printf("the root of 5 : %f\n",root);
 
 }
