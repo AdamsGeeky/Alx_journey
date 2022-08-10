@@ -1,9 +1,9 @@
 # Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.
 #                            HOW IS AN ENGINEER  
 ## INNOVATOR INVENTOR PROLEM SOLVER 
-# roles of Software engineers
-<details>
-  <summary> - Designing and maintaining software systems</summary>
+<details> 
+  <summary> # roles of Software engineers </summary>
+   - Designing and maintaining software systems
   <summary> - Evaluating and testing new software programs</summary>
   <summary> - Optimizing software for speed and scalability</summary>
   <summary> - Writing and testing code </summary>
