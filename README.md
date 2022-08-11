@@ -137,6 +137,6 @@
  - [Project-based learning tasks alx-Holberton School](https://github.com/betascribbles/alx-low_level_programming)
 
 ## Thanks to all the contributors ❤️
-<a href = "https://github.com/AdamsGeeky/Alx_holberlton_S_Eng_journey/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=AdamsGeeky/Alx_holberlton_S_Eng_journey"/>
-</a
+<a href="https://github.com/AdamsGeeky/Alx_holberlton_S_Eng_journey/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AdamsGeeky/Alx_holberlton_S_Eng_journey" />
+</a>
