@@ -15,6 +15,9 @@
 </details>
 
 # curriculum alx holberton official
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Doing+the+hard+thing;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
+</p>
 
 <details> 
 <summary> spring one </summary> 
