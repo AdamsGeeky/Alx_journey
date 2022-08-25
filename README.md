@@ -14,7 +14,7 @@
   </ul>    
 </details>
 
-# curriculum alx holberton school Learn by doing, learn from each other.
+# curriculum alx holberton official
 
 <details> 
 <summary> spring one </summary> 
