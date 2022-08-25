@@ -1,7 +1,11 @@
 ![](https://github.com/AdamsGeeky/Alx_holberlton_S_Eng_journey/blob/main/Alx-Holberton.jpg)
 <p align="center"><span style="text-color: read,">Software engineering</span> is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.
-</p>                          WHOW IS AN ENGINEER  
-## INNOVATOR INVENTOR PROLEM SOLVER 
+</p>        
+# WHOW IS AN ENGINEER  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=INNOVATOR+INVENTOR+PROLEM+SOLVER;they+Create+Solution;To+enthance+human+productivity&center=true&width=380&height=45"></a>
+</p>
+ 
 <details> 
   <summary> roles of Software engineers </summary>
   <ul> 
@@ -16,7 +20,7 @@
 
 # curriculum alx holberton official
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Doing+the+hard+thing;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Doing+the+hard+thing;Software+Engineering;student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
 </p>
 
 <details> 
