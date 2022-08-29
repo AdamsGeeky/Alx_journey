@@ -1,6 +1,16 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+the+journey+of;Doing+the+hard+thing&center=true&width=380&height=45"></a>
+</p>
+
+![](https://github.com/AdamsGeeky/Alx_holberlton_S_Eng_journey/blob/main/Alx-Holberton.jpg)
+
 <p align="center"><span style="text-color: read,">Software engineering</span> is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.
-</p>                          HOW IS AN ENGINEER  
-## INNOVATOR INVENTOR PROLEM SOLVER 
+</p>        
+  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=WHOW+IS+AN+ENGINEER;INNOVATOR+INVENTOR+PROLEM+SOLVER;they+Create+Solution;To+enthance+human+productivity&center=true&width=380&height=45"></a>
+</p>
+ 
 <details> 
   <summary> roles of Software engineers </summary>
   <ul> 
@@ -13,7 +23,7 @@
   </ul>    
 </details>
 
-# curriculum alx holberton school Learn by doing, learn from each other.
+# curriculum alx holberton official
 
 <details> 
 <summary> spring one </summary> 
@@ -214,6 +224,6 @@ book
  - [Project-based learning tasks alx-Holberton School](https://github.com/betascribbles/alx-low_level_programming)
 
 ## Thanks to all the contributors ❤️
-<a href = "https://github.com/AdamsGeeky/Alx_holberlton_S_Eng_journey/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=AdamsGeeky/Alx_holberlton_S_Eng_journey"/>
-</a
+<a href="https://github.com/AdamsGeeky/Alx_holberlton_S_Eng_journey/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AdamsGeeky/Alx_holberlton_S_Eng_journey" />
+</a>

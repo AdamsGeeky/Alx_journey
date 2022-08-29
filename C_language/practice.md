@@ -91,6 +91,3 @@
 - [ ] Write to a File
 - [ ] 
 - ## real world app in c
-
-
-https://apply.nedceef.gov.ng/ulogged/application/undergraduate/academic?id=45435
