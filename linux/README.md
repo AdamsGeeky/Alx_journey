@@ -1,4 +1,4 @@
-# linux 
+# linux OS
 	To succeed in Linux command line you need two things
 	- problem solving and  Creativity
 	To explore and Experiment remember your learning to a set of building black to let you build 
@@ -50,13 +50,6 @@
 	- xterm
 	- terminator
 
-
-
-
-
-
-
-
 ## to know the shell that is currently running in your terminal
 	*echo $SHELL*
 	## **echo** is the command used to display a message in a linux terminal
@@ -82,3 +75,49 @@
  ## Piping and Redirection - Join commands together in powerful combinations.
  ## Process Management - See what is currently running on your Linux system and what state the system is in, learn how to kill programs that have hung and put jobs in the background.
  ## Scripting 
+
+***
+ # [x] Terminal
+ # [x] The Command Line 
+ # [x] Basic Navigation 
+ # [x] More About Files 
+ # [x] Manual Pages 
+ # [x] File Manipulation
+	- [x] creating file
+         ---bash
+         touch filename
+         ---
+	- [x] deleting
+         ---bash
+         rm filename
+         ---
+   	- [x] rename
+         ---bash
+         touch filename
+         ---
+   	- [x] copy
+   	- [x] and move files and directories.
+ # [x] Vi Text Editor
+	- [x] open file
+	- [x] inserting
+	- [x] editing
+	- [x] save and exiting
+ # [ ] Wildcards 
+ # [ ] Permissions 
+ # [ ] Filters 
+ # [ ] Grep and Regular Expressions 
+ # [ ] Piping and Redirection
+ # [ ] Process Management
+ # [ ] Scripting 
+
+# Exit Status 
+## to check echo $?(for last commad excuted)
+
+- [x] 0 = ok or successful
+- [x] 1 = minor problem
+- [x] 2 = serious troubles 2
+- [x] 3 - 225 = everything else
+
+- [Case](case.bash)
+- 
+# [Accessing Data from a file](/professional/pingHosts.bash)
