@@ -83,20 +83,26 @@
  # [x] More About Files 
  # [x] Manual Pages 
  # [x] File Manipulation
-	- [x] creating file
-         ---bash
+    ##  creating file
+         ```bash
          touch filename
-         ---
-	- [x] deleting
-         ---bash
+         ```
+	## deleting
+         ```bash
          rm filename
-         ---
-   	- [x] rename
-         ---bash
-         touch filename
-         ---
-   	- [x] copy
-   	- [x] and move files and directories.
+         ```
+    ## rename
+         ```bash
+         mv oldname newname
+         ```
+    ## copy
+        ```bash
+         cp source destination
+        ```
+    ## and move files and directories.
+        ```bash
+         mv source destination
+        ```
  # [x] Vi Text Editor
 	- [x] open file
 	- [x] inserting
