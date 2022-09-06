@@ -216,8 +216,7 @@ before you look at the solution. And definitely get it
 working before you move on to the next part of the
 book
 
-10. # **Note**
- **We assume you’re new to C, but not to programming.**We assume that you’ve already done some programming. Not a lot, but we’ll assume you’ve already seen things like loops and variables in some other language, like JavaScript. C is actually a pretty advanced language, so if you’ve never done any programming at all, then you might want to read some other book before you start on this one. We’d suggest starting with **Head First Programming.**
+
 ## Resoures by:
 [Firdaus H. Salim *Software engineer at ALX. Reader. Writer.*](https://github.com/betascribbles)<br/>
  - [How I Tackle My Software Engineering Projects at ALX](https://medium.com/alx-africa/how-i-tackle-my-software-engineering-projects-at-alx-610f3f5a6448)
