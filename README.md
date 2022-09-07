@@ -23,7 +23,11 @@
   </ul>    
 </details>
 
-# KNOWING WHY IS IMPORTANT  
+# KNOWING WHY IS IMPORTANT
+## WHY LINUX
+**Linux** is one of the most popular operating systems for Information Technology Employees. System Administrators, Network engineers, IT Technicians and many other employees who work in IT, uses this important operating system for various reasons such as:**Customization**,**Open source**,**Reliability**,**Security**,**Free to use**,**Flexibility****Compatibility**,**Multitasking**,**Performance**,**Large community support**.
+Linux knowledge, is a key skill for an IT employee.
+your career opportunities increase with Linux skills. [For information...](https://blog.eduonix.com/system-programming/top-10-reasons-learn-linux/)  
 ## WHY LEARN C PROGRAMMING
 C is used where speed, space, and portability are important. Most operating systems are written in C. Most other computer languages are also written in C. And most game software is written in C. 
 
