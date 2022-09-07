@@ -6,5 +6,5 @@
 
 for i in {1..10}
 do 
-    chmod a+x file$i
+    chmod u+x file$i
 done

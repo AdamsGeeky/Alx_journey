@@ -6,7 +6,7 @@
 ls -l ./check 
 if [ $? -eq 0 ] 
 then
-echo file exist
+echo 'file exist'
 else 
-echo file dose not exit
+echo 'file dose not exit'
 fi

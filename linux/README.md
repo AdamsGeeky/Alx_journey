@@ -98,7 +98,17 @@ move files and directories.
  # [ ] Piping and Redirection
  # [ ] Process Management
  # [ ] Scripting 
-
+command line Argument
+# $1 first line argument
+# $2 second line augument
+# $# count all argument
+# $? previous commad 
+```bash
+echo "arg1: $1"
+echo "arg2: $2"
+echo "arg3: $3"
+echo "arg count: $#"
+```
 # Exit Status 
 ## to check echo $?(for last commad excuted)
 
