@@ -94,8 +94,3 @@ Git & command line editors
 - Queuing system
 - GraphQL API
 - Async file API
-
-Magic number
-The shebang is actually a human-readable instance of a magic number in the executable file, the magic byte string being 0x23 0x21, the two-character encoding in ASCII of #!. This magic number is detected by the "exec" family of functions, which determine whether a file is a script or an executable binary. The presence of the shebang will result in the execution of the specified executable, usually an interpreter for the script's language. It has been claimed[20] that some old versions of Unix expect the normal shebang to be followed by a space and a slash (#! /), but this appears to be untrue;[21] rather, blanks after the shebang have traditionally been allowed, and sometimes documented with a space (see the 1980 email in history section below).[citation needed]
-
-The shebang characters are represented by the same two bytes in extended ASCII encodings, including UTF-8, which is commonly used for scripts and other text files on current Unix-like systems. However, UTF-8 files may begin with the optional byte order mark (BOM); if the "exec" function specifically detects the bytes 0x23 and 0x21, then the presence of the BOM (0xEF 0xBB 0xBF) before the shebang will prevent the script interpreter from being executed. Some authorities recommend against using the byte order mark in POSIX (Unix-like) scripts,[22] for this reason and for wider interoperability and philosophical concerns. Additionally, a byte order mark is not necessary in UTF-8, as that encoding does not have endianness issues; it serves only to identify the encoding as UTF-8.[citation needed]

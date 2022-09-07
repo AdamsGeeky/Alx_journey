@@ -23,7 +23,9 @@
   </ul>    
 </details>
 
-# curriculum alx holberton official
+# KNOWING WHY IS IMPORTANT  
+## WHY LEARN C PROGRAMMING
+C is used where speed, space, and portability are important. Most operating systems are written in C. Most other computer languages are also written in C. And most game software is written in C. 
 
 <details> 
 <summary> spring one </summary> 
@@ -140,82 +142,68 @@
 - [ ] Async file API
 </details>
 
-# WHY LEARN C PROGRAMMING
-C is used where speed, space, and portability are important. Most operating systems are written in C. Most other computer languages are also written in C. And most game
-software is written in C. 
-
-1. # Slow down. The more you understand, the less you have to memorize.
-Don’t just read. Stop and think. When the book asks
-you a question, don’t just skip to the answer. Imagine
-that someone really is asking the question. The
-more deeply you force your brain to think, the better
+# General Advice
+<details> 
+<summary> Slow down. The more you understand, the less you have to memorize.</summary>
+Don’t just read. Stop and think. When the book asks you a question, don’t just skip to the answer. Imagine
+that someone really is asking the question. The more deeply you force your brain to think, the better
 chance you have of learning and remembering.
+</details>
 
-2. # Do the exercises. Write your own notes.
-We put them in, but if we did them for you, that
-would be like having someone else do your workouts
-for you. And don’t just look at the exercises. Use a
-pencil. There’s plenty of evidence that physical
+<details> 
+<summary> Do the exercises. Write your own notes.</summary>
+We put them in, but if we did them for you, that would be like having someone else do your workouts
+for you. And don’t just look at the exercises. Use a pencil. There’s plenty of evidence that physical
 activity while learning can increase the learning.
+</details>
 
-3. # Read “There Are No Dumb Questions.”
-That means all of them. They’re not optional
-sidebars, they’re part of the core content!
+<details> 
+<summary> Read “There Are No Dumb Questions.”</summary>
+That means all of them. They’re not optional sidebars, they’re part of the core content!
 Don’t skip them.
+</details>
 
-4. # Make this the last thing you read before bed.
-Or at least the last challenging thing.
-Part of the learning (especially the transfer to
-long-term memory) happens after you put the book
-down. Your brain needs time on its own, to do more
-processing. If you put in something new during that
-processing time, some of what you just learned will
+<details> 
+<summary>Make this the last thing you read before bed. </summary>
+Or at least the last challenging thing. Part of the learning (especially the transfer to
+long-term memory) happens after you put the book down. Your brain needs time on its own, to do more
+processing. If you put in something new during that processing time, some of what you just learned will
 be lost.
+</details>
 
-5. # Talk about it. Out loud.
+<details> 
+<summary> Talk about it. Out loud.</summary>
 Speaking activates a different part of the brain. If
-you’re trying to understand something, or increase
-your chance of remembering it later, say it out loud.
-Better still, try to explain it out loud to someone else.
-You’ll learn more quickly, and you might uncover
-ideas you hadn’t known were there when you were
-reading about it.
+you’re trying to understand something, or increase your chance of remembering it later, say it out loud.
+Better still, try to explain it out loud to someone else. You’ll learn more quickly, and you might uncover
+ideas you hadn’t known were there when you were reading about it.
+</details>
 
-6. # Drink water. Lots of it.
-Your brain works best in a nice bath of fluid.
-Dehydration (which can happen before you ever
+<details> 
+<summary> Drink water. Lots of it.</summary>
+Your brain works best in a nice bath of fluid. Dehydration (which can happen before you ever
 feel thirsty) decreases cognitive function.
+</details>
 
-7. # Listen to your brain.
-Pay attention to whether your brain is getting
-overloaded. If you find yourself starting to skim
-the surface or forget what you just read, it’s time
-for a break. Once you go past a certain point, you
-won’t learn faster by trying to shove more in, and
-you might even hurt the process.
+<details> 
+<summary>Listen to your brain.</summary>
+Pay attention to whether your brain is getting overloaded. If you find yourself starting to skim
+the surface or forget what you just read, it’s time for a break. Once you go past a certain point, you
+won’t learn faster by trying to shove more in, and you might even hurt the process.
+</details>
 
-8. # Feel something.
-Your brain needs to know that this matters. Get
-involved with the stories. Make up your own
-captions for the photos. Groaning over a bad joke
-is still better than feeling nothing at all
+<details> 
+<summary>Feel something.</summary>
+Your brain needs to know that this matters. Get involved with the stories. Make up your own
+captions for the photos. Groaning over a bad joke is still better than feeling nothing at all
+</details>
 
-9. # Write a lot of code!
-There’s only one way to learn to program in C:
-write a lot of code. And that’s what you’re going
-to do throughout this book. Coding is a skill, and
-the only way to get good at it is to practice. We’re
-going to give you a lot of practice: every chapter has
-exercises that pose a problem for you to solve. Don’t
-just skip over them—a lot of the learning happens
-when you solve the exercises. We included a solution
-to each exercise—don’t be afraid to peek at the
-solution if you get stuck! (It’s easy to get snagged
-on something small.) But try to solve the problem
-before you look at the solution. And definitely get it
-working before you move on to the next part of the
-book
-
+<details> 
+<summary>Write a lot of code!</summary>
+There’s only one way to learn to program: write a lot of code. And that’s what you’re going
+to do throughout this book. Coding is a skill, and the only way to get good at it is to practice. We’re
+going to give you a lot of practice: every chapter has exercises that pose a problem for you to solve. Don’t just skip over them—a lot of the learning happens when you solve the exercises. We included a solution to each exercise—don’t be afraid to peek at the solution if you get stuck! (It’s easy to get snagged on something small.) But try to solve the problem before you look at the solution. And definitely get it working before you move on to the next part of the book
+</details>
 
 ## Resoures by:
 [Firdaus H. Salim *Software engineer at ALX. Reader. Writer.*](https://github.com/betascribbles)<br/>
