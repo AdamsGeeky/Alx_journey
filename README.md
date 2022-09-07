@@ -222,8 +222,8 @@ going to give you a lot of practice: every chapter has exercises that pose a pro
 ## Resoures by:
 [Firdaus H. Salim *Software engineer at ALX. Reader. Writer.*](https://github.com/betascribbles)<br/>
  - [How I Tackle My Software Engineering Projects at ALX](https://medium.com/alx-africa/how-i-tackle-my-software-engineering-projects-at-alx-610f3f5a6448)
- - [Project-based learning tasks alx-Holberton School](https://github.com/betascribbles/alx-low_level_programming)
-
+ Contributing
+Pull requests are always welcome! Feel free to **folk** and make **pull requist** any Advise changes that can be made.
 ## Thanks to all the contributors ❤️
 <a href="https://github.com/AdamsGeeky/Alx_holberlton_S_Eng_journey/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AdamsGeeky/Alx_holberlton_S_Eng_journey" />
