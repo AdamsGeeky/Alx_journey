@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Geeks Ink...',
-  tagline: 'Software Engineering journey',
+  tagline: '',
   url: 'https://adamsgeeky.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
