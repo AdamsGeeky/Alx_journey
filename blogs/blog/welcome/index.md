@@ -14,34 +14,34 @@ tags: [linux, software, Engineering]
  
  # Software Engineers 
  they design and Create computer system and application to solve **real world problems**
- # Software Enginineering 
+ # Software Engineering  
    is the branch of computer science that deals with the design, developments,testing, and maintenance of software application.
       Software Engineers apply engineering principal and knowledge of computer programming language to build a software solution for end users
-# they Tasks
+# there Tasks
 - Evaluating and testing new software programs
 - optimizing software for speed and scalability
--  writting and testing code
+-  writing and testing code
 -  consulting with client, Engineers,Security specialist and other stakeholders
 -  presenting new features to internal customers
   
-# General classfication of software Engineers
+# General classification of software Engineers
 1. System Developer
 2. Application Developer
 
 # System Developer Task
-- Ensuring that differant types of software communicate with each other on one platform
-- Maintaning Ducumentaion of information technology system
+- Ensuring that different types of software communicate with each other on one platform
+- Maintaining Documentation of information technology system
 - updating to new technologies as needed
-- collaborating with development teams: senior system artitects, and Data science professional
+- collaborating with development teams: senior system architects, and Data science professional
 # Application Developer Task
 - Developing application for Ios,Android,Windows or other Os
 - conduction An analysis of requirement and tweaking software as needed
-- Realeasing software updates
-- working with Gragraphic designers, customers services, staff,project manager, and other customer facing departments
+- Releasing software updates
+- working with Graphic designers, customers services, staff,project manager, and other customer facing departments
   
-# Skills require as Software Egineers
-to achive all the above mension task as software Engineer to Deliavey as secure relaible scalable software
-you most have a strong **techical skills(hard skills)** of computer science, And not only that you most also have **soft skills** that would enable you to interact with both Development team and end-users to get feedback and build the software that solve actual intent problem 
+# Skills require as Software Engineers
+to achieve all the above mention task as software Engineer to Deliver as secure reliable scalable software
+you most have a strong **technical skills(hard skills)** of computer science, And not only that you most also have **soft skills** that would enable you to interact with both Development team and end-users to get feedback and build the software that solve actual intent problem 
 1. # hard Skills
    you need a strong knowledge of computer science that would enable you to build:
    - server
@@ -62,4 +62,4 @@ all these would not be possible without strong hard skills of computer science s
 - Attention to details
 
 # Soft skills
-this is mostly neglicted by Engineer but in order to avoit conflict of interst there is a strong need to have 
+**Soft skills** are skills applicable to all professions.Skills like communication, collaboration, adaptability, and problem-solving – commonly called “soft” skills – are now so essential to success in IT, The ability to think creatively and solve problems by working with others is really important,

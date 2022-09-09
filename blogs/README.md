@@ -41,3 +41,16 @@ Project structure rundown
 # /package.json - A Docusaurus website is a React app. You can install and use any npm packages you like in them
 
 # /sidebars.js - Used by the documentation to specify the order of documents in the sidebar
+
+docs
+├── 01-Intro.md
+├── 02-Tutorial Easy
+│   ├── 01-First Part.md
+│   ├── 02-Second Part.md
+│   └── 03-End.md
+├── 03-Tutorial Hard
+│   ├── 01-First Part.md
+│   ├── 02-Second Part.md
+│   ├── 03-Third Part.md
+│   └── 04-End.md
+└── 04-End.md
