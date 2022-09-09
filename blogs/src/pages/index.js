@@ -15,7 +15,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle"><Typewriter 
            options={{
-             strings: ['Welcome to Geeks ink treasure','this is where i have been complaining my','Software Engineering journey'],
+             strings: ['Welcome to Geeks ink','this is where i have been complaining my Software Engineering journey ','with Holberton School of Software Engineering'],
              autoStart: true,
              loop: true,
            }}
