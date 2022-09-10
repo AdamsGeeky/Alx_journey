@@ -1,8 +1,6 @@
 ---
 sidebar_position: 1
 ---
-
-# KNOWING WHY IS IMPORTANT
 # WHY LINUX
 Linux is one of the most popular operating systems for Information Technology Employees. System Administrators, Network engineers, IT Technicians and many other employees who work in IT, uses this important operating system for various reasons such as:
 
