@@ -2,5 +2,5 @@
 sidebar_position: 1
 ---
 
-# An Engineer
-An Engineer is someone that went to know who the thing work
+# Software Engineering 
+ below are some of what i have learn so far in my software Engineering journey with **ALX Holberton School of Software Engineering**
