@@ -15,7 +15,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle"><Typewriter 
            options={{
-             strings: ['Welcome to Geek ink','this is where i have been complaining my Software Engineering journey ','with Holberton School of Software Engineering'],
+             strings: ['Welcome to Geek ink','this is where i have been compiling my Software Engineering journey ','with Holberton School of Software Engineering'],
              autoStart: true,
              loop: true,
            }}
@@ -36,7 +36,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>

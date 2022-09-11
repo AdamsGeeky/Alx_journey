@@ -42,3 +42,6 @@ A good combination of options is shown in:
 ```bash
 rsync --progress -avrxH  --delete sourcedir destdir
 ```
+
+You can use keyboard shortcuts to perform different tasks quickly. The table lists some of these keyboard shortcuts and their uses. Note the case of the "hotkey" does not matter, e.g. doing CTRL-a is the same as doing CTRL-A .
+
