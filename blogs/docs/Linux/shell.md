@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# THE SHELL
+## What is  Shell
 within a terminal you have what is known as shell SHELL in computing shell is a computer program that exposes an operating system's services to the a human user or a another program. SHELL is a part of operating system that defines how the terminal will behave and looks after running the command for you. There are various shells but hare we used the most common one of them all BASH
 
 THE BASH stand for Bourne Again Shell
