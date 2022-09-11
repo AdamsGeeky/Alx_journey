@@ -7,6 +7,6 @@ The **emacs** editor is a popular competitor for vi. Unlike vi, it does not work
 Rather than having different modes for command and insert, like vi, emacs uses the CTRL and Meta (Alt or Esc) keys for special commands.
 
 The table lists some of the most important key combinations that are used when starting, exiting, reading, and writing files in emacs.
-![](../Linux/emacsB.png)
+![](img/emacsB.png)
 
 The emacs tutorial is a good place to start learning basic commands. It is available any time when in emacs by simply typing CTRL-h (for help) and then the letter t for tutorial.

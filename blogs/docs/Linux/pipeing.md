@@ -7,7 +7,7 @@ The UNIX/Linux philosophy is to have many simple and short programs (or commands
 You can pipe the output of one command or program into another as its input.
 
 In order to do this, we use the vertical-bar, pipe symbol (|), between commands as in:
- ![](pipe.png)
+ ![](img/pipe.png)
 ## command1 | command2 | command3
 The above represents what we often call a pipeline, and allows Linux to combine the actions of several commands into one. 
 
