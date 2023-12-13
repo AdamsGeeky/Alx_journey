@@ -8,16 +8,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Geek Ink...',
   tagline: '',
-  url: 'https://adamsgeeky.netlify.app/',
-  baseUrl: '/',
+  url: 'https://adamsgeeky.github.io',
+  baseUrl: '/Alx_journey/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'https://github.com/AdamsGeeky', // Usually your GitHub org/user name.
-  projectName: 'Alx_holberlton_S_Eng_journey', // Usually your repo name.
+  organizationName: 'adamsgeeky.github.io', // Usually your GitHub org/user name.
+  projectName: 'Alx_journey', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/AdamsGeeky/Alx_holberlton_S_Eng_journey/tree/blogs',
+            'https://github.com/AdamsGeeky/Alx_journey/tree/blogs',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/AdamsGeeky/Alx_holberlton_S_Eng_journey/tree/blogs',
+            'https://github.com/AdamsGeeky/Alx_journey/tree/blogs',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} G ink, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AdamsGeeky`,
       },
       prism: {
         theme: lightCodeTheme,
