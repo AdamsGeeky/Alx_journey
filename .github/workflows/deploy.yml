@@ -12,7 +12,6 @@ permissions:
 
 jobs:
   deploy:
-    path: ./app
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
